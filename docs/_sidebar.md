@@ -1,4 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Guide](guide.md)
+* [Dataset](dataset.md)
+* [Model](model.md)
