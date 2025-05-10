@@ -28,7 +28,7 @@ The cat breeds are all seperated into folders. Each images name begins with the 
 
 
 ## Dataset Objectives
-The Objective for this dataset is to classify cat breeds.
+The Objective for this dataset is to classify cat breeds. Thus, given an image of a cat that is one of the 15 given breeds, the model should be able to correctly identify which breed it is.
 
 
 
