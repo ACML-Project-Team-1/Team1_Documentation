@@ -4,7 +4,7 @@
 
 A Convolutional neural network was implemented as it does a good job at working with image data classification.
 
-### Define the model
+### Define the initial model we used
 
 We implemented a CNN model using Pytorch for image classification with 15 output classes.
 ```python
